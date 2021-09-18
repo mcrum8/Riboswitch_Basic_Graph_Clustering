@@ -1,0 +1,8 @@
+> max(wtc_vector)
+[1] 0.9605495
+> max(fc_vector)
+[1] 0.8918509
+> max(lec_vector)
+[1] 0.9322596
+> max(ceb_vector)
+[1] 0.9752216
